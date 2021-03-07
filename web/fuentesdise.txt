@@ -1,0 +1,7 @@
+martillo:
+https://www.google.com/search?q=derecho&tbm=isch&hl=es&tbs=il:cl&sa=X&ved=0CAAQ1vwEahcKEwiQ4N6LzIPvAhUAAAAAHQAAAAAQAg&biw=1583&bih=827#imgrc=5gNmiuOhzk2sZM
+licencia: creative commons
+
+libro:
+https://www.google.com/search?q=asesoria&tbm=isch&tbs=il:cl&hl=es&sa=X&ved=0CAAQ1vwEahcKEwiY8rSb2oPvAhUAAAAAHQAAAAAQDg&biw=1583&bih=827#imgrc=KKS5za_Mmkil7M
+licencia: creative commons
